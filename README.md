@@ -1,9 +1,9 @@
 # belajar-python
 
-Basis: Python 3.8.* (openSUSE Tumbleweed)
+Basis: Python 3.6.* (openSUSE Leap 15.*)
 -----------------------------------------
 
-Catatan : http://belajar-otodidak-php.blogspot.com/
+Catatan : https://belajar-otodidak-python.blogspot.com/
 
 Belajar Bahasa Pemrograman Python.
 
